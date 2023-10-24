@@ -1,6 +1,6 @@
 # shoping cart
 
-deployed on Netlify [deployed link]((https://shoping-cart-krishan-kant.netlify.app/))
+deployed on Netlify [deployed link](https://shoping-cart-krishan-kant.netlify.app/)
 
 
 ## Introduction
